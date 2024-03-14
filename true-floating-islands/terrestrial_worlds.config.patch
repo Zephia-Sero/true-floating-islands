@@ -1,0 +1,42 @@
+[
+	{
+		"op": "replace",
+		"path": "/regionTypes/ocean/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/oceanfloor/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/toxic/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/toxicoceanfloor/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/arctic/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/arcticoceanfloor/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/magma/oceanLiquid",
+		"value": []
+	},
+	{
+		"op": "replace",
+		"path": "/regionTypes/magmaoceanfloor/oceanLiquid",
+		"value": []
+	}
+]
